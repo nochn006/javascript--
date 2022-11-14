@@ -61,10 +61,10 @@
 // let str2 = 'World!';
 // alert(str1 + str2);
 
-// let name = "Kirill";
+// let name = "Rostislav";
 // alert(`Hello, ${name}!`);
 
-// let age = 16;
+// let age = 17;
 // alert(`You are ${age} years old!`);
 
 // name = prompt('What is your name?', '');
